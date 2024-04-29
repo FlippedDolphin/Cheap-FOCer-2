@@ -1,6 +1,9 @@
 # Cheap FOCer 2 (v1.0)
 
 Low-Cost(around $120 for 5 boards and components) Motor Controller based on the VESC 6
+***** caution *******
+This is the same original CFOC2 v.1.0
+***** caution *******
 
 Front and Back:
 
