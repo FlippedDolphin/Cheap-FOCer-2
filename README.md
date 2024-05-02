@@ -48,6 +48,10 @@ I used position.csv for JLCPCB order because original one from Kicad has errors 
 
 Licens is followd by the parent project.
 
+## Firmware
+
+The firmware for this board is my bdlc repository with branch "Custom_CFOC2_OpenFFBoard". The Target is "Cheap_FOCer_2_005_nl".
+
 ***** caution *******
 
 Front and Back:
