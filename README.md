@@ -8,7 +8,7 @@ This is a custom VESC for OpenFFBoard based On Cheap FOCer 2(v1.0)
 
 * Replaced the shunt registers for low current.
 
-* Removed the useless BMI.
+* Removed the useless IMU.
 
 * Cleaned up HALL/Encoder lines(for ABN) and COMM lines(for BiSS-C)
   for high frequency signals.(I tested COMM lines only.)
@@ -32,7 +32,8 @@ bom.org.csv and position.org.csv are come from KiCad.
 
 I used bom.csv and bom.lcsc.csv to order JLCPCB and LCSC respectively.
 
-I have already had some parts, so you need adjust for your needs(also USB connector I told above).
+When I ordered the PCB and parts, I have already had some parts, so the order is mimimjm.
+You need adjust the BOMS for your needs.
 
 I used position.csv for JLCPCB order because original one from Kicad has errors for some parts. You need to check the position when you order yours.
 
