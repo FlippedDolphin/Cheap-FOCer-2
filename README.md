@@ -56,7 +56,7 @@ The firmware for this board is my bdlc repository with branch "Custom_CFOC2_Open
 
 Front and Back:
 
-![](source/Images/Front.PNG) ![](source/Images/Back.PNG)
+![](source/Images/Front.png) ![](source/Images/Back.png)
 
 Pin outs:
 ![](./source/Images/pinout.PNG)
