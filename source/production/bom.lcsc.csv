@@ -1,0 +1,8 @@
+Designator,Footprint,Quantity,Value,LCSC Part #,Bottom,èäóL
+"C54, C57, C65",CP_10x20mm_hor_with_model_mirrored_less_silk,3,"330u, 63V",C437643,,
+D8,TO-220-2_Horizontal_TabUp,1,STTH3010DTO-220AC_STM,C73865,,
+J4,CONN-TH_2P-P5.08_1757242,1,Conn_01x02,C90074,,
+J8,CONN-TH_MSTBA2.5-4-G-5.08,1,MotorPower,C90076,,
+Q1,TO-247-3_Horizontal_TabUp,1,FGH40N60SFDTU,C49514,,
+"Q10, Q11, Q2, Q3, Q6, Q7",SOT-23,6,Q_PNP_BCE,C8542,,
+"Q12, Q13, Q4, Q5, Q8, Q9",TO-220-3_Horizontal_TabUp_no_hole,6,NCEP60T20,C284868,,
